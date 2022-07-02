@@ -108,6 +108,33 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "sally",
+      "species": "snake",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "sally",
+      "species": "snake",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "cali",
+      "species": "lion",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
